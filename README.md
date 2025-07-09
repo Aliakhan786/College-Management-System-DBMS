@@ -26,16 +26,10 @@ A relational database system to efficiently manage student, faculty, and course 
 ## 📷 Screenshots
 
 ### ER Diagram
-![ER Diagram](screenshots/er_diagram.png)
+![ER Diagram](er_diagram.png)
 
 ### SQL Queries
-![SQL Queries](screenshots/sql_queries.png)
-
-### System Modules
-![Modules Overview](screenshots/modules_overview.png)
-
-### User Interfaces
-![User Interface](screenshots/user_interface.png)
+![SQL Queries](sql_queries.png)
 
 ## 📈 Future Enhancements
 
